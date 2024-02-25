@@ -1,0 +1,11 @@
+Flask
+keras
+nltk
+numpy
+spacy
+spacy-langdetect
+spacy-legacy
+spacy-loggers
+transformers
+tensorflow
+sentencepiece
